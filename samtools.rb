@@ -1,6 +1,7 @@
 require 'formula'
 
 class Samtools < Formula
+  # Added comment.
   url 'http://sourceforge.net/projects/samtools/files/samtools/0.1.17/samtools-0.1.17.tar.bz2'
   homepage 'http://samtools.sourceforge.net/'
   md5 '9549f7a6bba894766df9c3dd18d61f0b'
